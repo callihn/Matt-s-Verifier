@@ -63,4 +63,4 @@ Map data © OpenStreetMap contributors.
 ### 📜 Legal / Compliance
 - **OSM attribution updated** — Map tiles now link to ODbL copyright page; Esri satellite layer shows full data-source credits
 - **User-Agent compliance** — All map data requests use descriptive "MattsVerifier/2.5.0" User-Agent for API policy compliance
-- 
+
