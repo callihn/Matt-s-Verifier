@@ -4,6 +4,12 @@ Matt's Verifier is a proof-of-concept address verification tool that cross-refer
 
 ---
 
+#### 📦 Downloads
+
+[![Get the App](https://img.shields.io/github/v/release/callihn/Matt-s-Verifier?style=for-the-badge&label=%F0%9F%8C%A4%20Get%20the%20Latest%20Version&color=2ea44f)](https://github.com/callihn/Matt-s-Verifier/releases/latest)
+
+---
+
 # 📸 Screenshots
 
 <details>
